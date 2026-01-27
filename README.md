@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Cândido</h1>
 <h3 align="center">I am a developer in constant evolution, passionate about solving problems through code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcandido42" alt="rcandido42" /></a> </p>
-
 - 🔭 I’m currently working on **Atrium Raul Almeida and PlantEYE**
 
 - 🌱 I’m currently learning **SASS**
