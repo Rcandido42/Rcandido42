@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Atrium Raul Almeida and PlantEYE**
 
-- 🌱 I’m currently learning **SASS**
+- 🌱 I’m currently learning **Php OO**
 
 - 📫 How to reach me **jrcricardinhocandido@gmail.com**
 
