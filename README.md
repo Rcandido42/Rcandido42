@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo Cândido</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A passionate Software Engineer - Full Stack developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rcandido42&label=Profile%20views&color=0e75b6&style=flat" alt="rcandido42" /> </p>
 
