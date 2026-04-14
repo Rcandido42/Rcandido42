@@ -1,8 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ricardo%20Cândido&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20·%20Portugal&descAlignY=55&descSize=18" />
+</div>
 
-# Ricardo Cândido
-
-**Full Stack Developer · Portugal**
+<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rcandido42&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/rcandido42)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/@_.candidooo._)
@@ -44,8 +44,33 @@
 
 ---
 
+### Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/rcandido42/NOME_DO_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rcandido42/NOME_DO_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rcandido42&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rcandido42/rcandido42/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rcandido42/rcandido42/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/rcandido42/rcandido42/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
