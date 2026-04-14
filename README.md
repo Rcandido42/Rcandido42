@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/SEU_ID" width="100" style="border-radius:50%"/>
-
 # Ricardo Cândido
 
 **Full Stack Developer · Portugal**
@@ -49,6 +47,9 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rcandido42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcandido42&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=rcandido42&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcandido42&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
