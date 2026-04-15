@@ -47,10 +47,10 @@
 ### Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/Rcandido42/PyShorts">
+  <a href="[https://github.com/Rcandido42/PyShorts](https://github.com/Rcandido42/PyShorts)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Rcandido42/PyShorts">
+  <a href="[https://github.com/Rcandido42/PyShorts](https://github.com/Rcandido42/Simoesserralharia)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true" />
   </a>
 </div>
