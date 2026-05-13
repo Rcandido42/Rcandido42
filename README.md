@@ -50,7 +50,7 @@
   <a href="https://github.com/Rcandido42/PyShorts">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=PyShorts&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Rcandido42/Simoesserralharia">
+  <a href="https://github.com/joaopeccanha18/PlantEyeAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=Simoesserralharia&theme=tokyonight&hide_border=true" />
   </a>
 </div>
