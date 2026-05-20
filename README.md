@@ -1,76 +1,125 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ricardo%20Cândido&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20·%20Portugal&descAlignY=55&descSize=18" />
-</div>
-
-<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rcandido42&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/rcandido42)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/@_.candidooo._)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jrcricardinhocandido@gmail.com)
+
+```
+  ██████╗  ██████╗ █████╗ ███╗   ██╗██████╗ ██╗██████╗  ██████╗ 
+  ██╔══██╗██╔════╝██╔══██╗████╗  ██║██╔══██╗██║██╔══██╗██╔═══██╗
+  ██████╔╝██║     ███████║██╔██╗ ██║██║  ██║██║██║  ██║██║   ██║
+  ██╔══██╗██║     ██╔══██║██║╚██╗██║██║  ██║██║██║  ██║██║   ██║
+  ██║  ██║╚██████╗██║  ██║██║ ╚████║██████╔╝██║██████╔╝╚██████╔╝
+  ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝╚═════╝  ╚═════╝ 
+```
+
+### Full Stack Developer · Aveiro, Portugal 🇵🇹
+
+*Building things that (mostly) work on the first try.*
 
 </div>
 
 ---
 
-### About me
+## Sobre mim
 
-- 🔭 A trabalhar em **Atrium Raul Almeida** e **PlantEYE**
-- 🌱 A aprender **PHP Orientado a Objetos**
-- 💡 Apaixonado por desenvolvimento web, jogos e ferramentas criativas
-- 📍 Portugal
+Estudante de programação com tendência a transformar ideias aleatórias das 2h da manhã em projetos reais. Gosto de construir desde interfaces visuais até automações que poupam trabalho a toda a gente — incluindo a mim próprio.
+
+Stack variado, mente curiosa, e uma ligação emocional questionável ao VS Code.
 
 ---
 
-### Languages & Tools
+## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Bases de dados & Cloud**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Ferramentas & Outros**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ---
 
-### Projetos em Destaque
+## 🚀 Projetos em Destaque
+
+### 👻 PhantomPlayer
+> *App desktop em Electron + Node.js que simula tempo de jogo na Steam — sem baixar nada pesado, sem deixar rastro.*
+
+Autenticação via QR Code, suporte a Steam Guard, temas personalizáveis, interface bilingue (PT/EN) e credenciais encriptadas com DPAPI do Windows. Opera em segundo plano como um fantasma — daí o nome.
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rcandido42/PhantomPlayer)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+---
+
+### 🎬 PyShorts
+> *Automação em Python que cria vídeos curtos do zero — guião, voz, legenda e tudo — sem intervenção humana.*
+
+Integra Google Gemini para geração de guiões, `edge-tts` para narração, Whisper da OpenAI para legendas sincronizadas palavra a palavra, e `yt-dlp` para vídeos de fundo. Entras com um tema, sais com um Short.
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rcandido42/PyShorts)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 🌿 PlantEye
+> *Assistente botânico com IA que diagnostica plantas em tempo real via visão computacional.*
+
+Construído em React + TypeScript com Google Gemini Vision. Detecta espécies, estado de saúde e dá recomendações de cuidados. Tem modo live com WebSockets e feedback por voz para acessibilidade.
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaopeccanha18/PlantEyeAI)
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square)](https://plant-eye-ai.vercel.app)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Rcandido42/PyShorts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=PyShorts&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/joaopeccanha18/PlantEyeAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=Simoesserralharia&theme=tokyonight&hide_border=true" />
-  </a>
+
+![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcandido42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcandido42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
 
 ---
 
-### GitHub Stats
+## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rcandido42&theme=tokyonight&hide_border=true" />
+
+![Snake animation](https://raw.githubusercontent.com/Rcandido42/Rcandido42/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rcandido42/rcandido42/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rcandido42/rcandido42/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/rcandido42/rcandido42/output/github-contribution-grid-snake.svg" />
-</picture>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+*"Feito com RedBull e muito código."*
+
 </div>
