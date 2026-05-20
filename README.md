@@ -1,108 +1,89 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ricardo%20Cândido&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20·%20Aveiro%2C%20Portugal%20🇵🇹&descAlignY=55&descSize=16" width="100%"/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=rcandido42&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/rcandido42)
-
-```
-  ██████╗  ██████╗ █████╗ ███╗   ██╗██████╗ ██╗██████╗  ██████╗ 
-  ██╔══██╗██╔════╝██╔══██╗████╗  ██║██╔══██╗██║██╔══██╗██╔═══██╗
-  ██████╔╝██║     ███████║██╔██╗ ██║██║  ██║██║██║  ██║██║   ██║
-  ██╔══██╗██║     ██╔══██║██║╚██╗██║██║  ██║██║██║  ██║██║   ██║
-  ██║  ██║╚██████╗██║  ██║██║ ╚████║██████╔╝██║██████╔╝╚██████╔╝
-  ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝╚═════╝  ╚═════╝ 
-```
-
-### Full Stack Developer · Aveiro, Portugal 🇵🇹
-
-*Building things that (mostly) work on the first try.*
+[![GitHub followers](https://img.shields.io/github/followers/rcandido42?style=flat-square&color=7c3aed&label=Followers)](https://github.com/rcandido42)
 
 </div>
 
 ---
 
-## Sobre mim
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=rcandido42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=a855f7&text_color=c9d1d9&ring_color=7c3aed" />
 
-Estudante de programação com tendência a transformar ideias aleatórias das 2h da manhã em projetos reais. Gosto de construir desde interfaces visuais até automações que poupam trabalho a toda a gente — incluindo a mim próprio.
+### 👋 Olá, mundo!
+
+Estudante de programação que transforma ideias das 2h da manhã em projetos reais. Gosto de construir desde interfaces polidas até automações que poupam trabalho — incluindo o meu próprio.
 
 Stack variado, mente curiosa, e uma ligação emocional questionável ao VS Code.
 
----
+- 🔭 A trabalhar em projetos com **IA + visão computacional**
+- 🎮 Gamer nas horas vagas *(League of Legends conta como hobby?)*
+- 🌱 Sempre a aprender algo novo — às vezes até relevante
+- 📍 Aveiro, Portugal
 
-## 🛠 Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**Bases de dados & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Ferramentas & Outros**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+<br clear="right"/>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 👻 PhantomPlayer
-> *App desktop em Electron + Node.js que simula tempo de jogo na Steam — sem baixar nada pesado, sem deixar rastro.*
+<div align="center">
 
-Autenticação via QR Code, suporte a Steam Guard, temas personalizáveis, interface bilingue (PT/EN) e credenciais encriptadas com DPAPI do Windows. Opera em segundo plano como um fantasma — daí o nome.
+<a href="https://github.com/Rcandido42/PhantomPlayer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=PhantomPlayer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Rcandido42/PyShorts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=PyShorts&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9" />
+</a>
 
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rcandido42/PhantomPlayer)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+</div>
 
----
+<br/>
 
-### 🎬 PyShorts
-> *Automação em Python que cria vídeos curtos do zero — guião, voz, legenda e tudo — sem intervenção humana.*
+> **👻 PhantomPlayer** — App desktop em Electron que simula horas de jogo na Steam. QR Code login, Steam Guard, temas personalizáveis, credenciais encriptadas com DPAPI. Opera em segundo plano como um fantasma — daí o nome.
 
-Integra Google Gemini para geração de guiões, `edge-tts` para narração, Whisper da OpenAI para legendas sincronizadas palavra a palavra, e `yt-dlp` para vídeos de fundo. Entras com um tema, sais com um Short.
+> **🎬 PyShorts** — Automação em Python que gera vídeos curtos do zero: guião via Gemini AI, narração com `edge-tts`, legendas palavra-a-palavra via Whisper, e vídeo de fundo automático. Entras com um tema, sais com um Short.
 
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rcandido42/PyShorts)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### 🌿 PlantEye
-> *Assistente botânico com IA que diagnostica plantas em tempo real via visão computacional.*
-
-Construído em React + TypeScript com Google Gemini Vision. Detecta espécies, estado de saúde e dá recomendações de cuidados. Tem modo live com WebSockets e feedback por voz para acessibilidade.
-
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaopeccanha18/PlantEyeAI)
-[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square)](https://plant-eye-ai.vercel.app)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+> **🌿 PlantEye** — Assistente botânico com IA que diagnostica plantas em tempo real via visão computacional. React + TypeScript + Google Gemini Vision. Modo live com WebSockets e feedback por voz. → [**Demo ao vivo**](https://plant-eye-ai.vercel.app)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
 <div align="center">
 
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcandido42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcandido42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rcandido42&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a855f7&currStreakLabel=a855f7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcandido42&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -119,6 +100,8 @@ Construído em React + TypeScript com Google Gemini Vision. Detecta espécies, e
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 *"Feito com RedBull e muito código."*
 
