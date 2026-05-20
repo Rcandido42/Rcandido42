@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ricardo%20Cândido&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20·%20Aveiro%2C%20Portugal%20🇵🇹&descAlignY=55&descSize=16" width="100%"/>
+# Ricardo Cândido
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rcandido42&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/rcandido42)
-[![GitHub followers](https://img.shields.io/github/followers/rcandido42?style=flat-square&color=7c3aed&label=Followers)](https://github.com/rcandido42)
+[![GitHub followers](https://img.shields.io/github/followers/rcandido42?style=flat-square&color=7c3aed&label=Followers&logo=github)](https://github.com/rcandido42)
+
+**Full Stack Developer · Aveiro, Portugal 🇵🇹**
+
+*"Building things that (mostly) work on the first try."*
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=rcandido42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=a855f7&text_color=c9d1d9&ring_color=7c3aed" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rcandido42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 ### 👋 Olá, mundo!
 
@@ -30,22 +34,18 @@ Stack variado, mente curiosa, e uma ligação emocional questionável ao VS Code
 
 <div align="center">
 
-<a href="https://github.com/Rcandido42/PhantomPlayer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=PhantomPlayer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Rcandido42/PyShorts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=PyShorts&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
+[![PhantomPlayer](https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=PhantomPlayer&theme=tokyonight&hide_border=true)](https://github.com/Rcandido42/PhantomPlayer)
+[![PyShorts](https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=PyShorts&theme=tokyonight&hide_border=true)](https://github.com/Rcandido42/PyShorts)
 
 </div>
 
 <br/>
 
-> **👻 PhantomPlayer** — App desktop em Electron que simula horas de jogo na Steam. QR Code login, Steam Guard, temas personalizáveis, credenciais encriptadas com DPAPI. Opera em segundo plano como um fantasma — daí o nome.
+**👻 PhantomPlayer** — App desktop em Electron que simula horas de jogo na Steam. QR Code login, Steam Guard, temas personalizáveis, credenciais encriptadas com DPAPI. Opera em segundo plano como um fantasma — daí o nome.
 
-> **🎬 PyShorts** — Automação em Python que gera vídeos curtos do zero: guião via Gemini AI, narração com `edge-tts`, legendas palavra-a-palavra via Whisper, e vídeo de fundo automático. Entras com um tema, sais com um Short.
+**🎬 PyShorts** — Automação em Python que gera vídeos curtos do zero: guião via Gemini AI, narração com `edge-tts`, legendas palavra-a-palavra via Whisper, e vídeo de fundo automático. Entras com um tema, sais com um Short.
 
-> **🌿 PlantEye** — Assistente botânico com IA que diagnostica plantas em tempo real via visão computacional. React + TypeScript + Google Gemini Vision. Modo live com WebSockets e feedback por voz. → [**Demo ao vivo**](https://plant-eye-ai.vercel.app)
+**🌿 PlantEye** — Assistente botânico com IA que diagnostica plantas em tempo real via visão computacional. React + TypeScript + Google Gemini Vision. Modo live com WebSockets e feedback por voz. → [**Demo ao vivo**](https://plant-eye-ai.vercel.app)
 
 ---
 
@@ -82,8 +82,7 @@ Stack variado, mente curiosa, e uma ligação emocional questionável ao VS Code
 
 <div align="center">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rcandido42&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a855f7&currStreakLabel=a855f7" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcandido42&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcandido42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -100,8 +99,6 @@ Stack variado, mente curiosa, e uma ligação emocional questionável ao VS Code
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 *"Feito com RedBull e muito código."*
 
