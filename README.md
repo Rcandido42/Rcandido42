@@ -5,7 +5,6 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rcandido42&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/rcandido42)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/@_.candidooo._)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jrcricardinhocandido@gmail.com)
 
 </div>
