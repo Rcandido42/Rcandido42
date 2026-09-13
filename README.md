@@ -13,8 +13,7 @@
 
 ### About me
 
-- 🔭 A trabalhar em **Atrium Raul Almeida** e **PlantEYE**
-- 🌱 A aprender **PHP Orientado a Objetos**
+- 🔭 A trabalhar em **Atrium Raul Almeida** e **Phantom Player**
 - 💡 Apaixonado por desenvolvimento web, jogos e ferramentas criativas
 - 📍 Portugal
 
