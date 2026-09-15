@@ -13,7 +13,7 @@
 
 ### About me
 
-- 🔭 A trabalhar em **Atrium Raul Almeida** e **Phantom Player**
+- 🔭 A trabalhar em **PAP** e **Phantom Player**
 - 💡 Apaixonado por desenvolvimento web, jogos e ferramentas criativas
 - 📍 Portugal
 
