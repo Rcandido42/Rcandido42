@@ -13,7 +13,7 @@
 
 ### About me
 
-- 🔭 A trabalhar em **PAP** e **Phantom Player**
+- 🔭 A trabalhar em **Client Finder** e **Phantom Player**
 - 💡 Apaixonado por desenvolvimento web, jogos e ferramentas criativas
 - 📍 Portugal
 
