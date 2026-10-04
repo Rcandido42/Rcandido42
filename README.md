@@ -45,7 +45,7 @@
 ### Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/Rcandido42/PyShorts">
+  <a href="https://github.com/Rcandido42/PhantomPlayer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcandido42&repo=PyShorts&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/joaopeccanha18/PlantEyeAI">
